@@ -25,5 +25,3 @@ const itemEls = images
   .join("");
 
 imgList.insertAdjacentHTML("beforeend", itemEls);
-
-console.log(imgList);
